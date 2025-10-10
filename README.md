@@ -49,8 +49,8 @@
 
 ## 📫 Let's Connect
 
-- **Portfolio**: [yourportfolio.com]
-- **LinkedIn**: [linkedin.com/in/yourprofile]
+- **Portfolio**: [https://blaacksh33p.gitbook.io/blaacksh33p-docs/]
+- **Twitter**: [x.com/th3blaacksh33p]
 - **Email**: your.email@domain.com
 
 ---
